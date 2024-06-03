@@ -1,5 +1,6 @@
+<h1>Projeto Oracle Next ONE + Alura</h1>
 
-<h1>Conversor de Moedas</h1>
+<h2>Conversor de Moedas</h2>
 
 <p>Este é um conversor de moedas simples que permite converter valores de uma moeda para outra com base em taxas de câmbio atualizadas.</p>
 
