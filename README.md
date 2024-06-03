@@ -1,4 +1,4 @@
-<h1>Projeto Oracle Next ONE + Alura</h1>
+<h1>Projeto Oracle ONE + Alura</h1>
 
 <h2>Conversor de Moedas</h2>
 
