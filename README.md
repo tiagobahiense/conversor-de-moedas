@@ -22,7 +22,7 @@
 <h2>Como usar</h2>
 <ol>
     <li><p>Clone este repositório para a sua máquina local:</p>
-    <pre><code>git clone https://github.com/seu-usuario/conversor-de-moedas.git
+    <pre><code>git clone https://github.com/tiagobahiense/conversor-de-moedas.git
 cd conversor-de-moedas</code></pre></li>
 
   Execute o script Main:
